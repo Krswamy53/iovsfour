@@ -1,0 +1,7 @@
+iishu\
+liste file
+csh
+jxaj
+xs
+:wq!
+
